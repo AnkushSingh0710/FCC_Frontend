@@ -1,0 +1,79 @@
+body {
+    background-color: black;
+}
+
+.cover {
+    width: 100%;
+}
+
+.firstCard {
+    display: block;
+} 
+
+.firstCardImg {
+    float: right;
+    margin-bottom: 20px;
+    margin-left: 50px;
+}
+
+.secondCard {
+    display: block;
+}
+
+.secondCardImg {
+    float: left;
+    margin-left: 50px;
+}
+
+.card-title {
+    color: yellow;
+}
+
+p {
+    color: white;
+    margin: 50px;
+    text-align: center;
+    width: 100%;
+}
+
+h1 {
+    margin: 50px;
+}
+
+
+.card-heading-first {
+    margin-top: 150px;
+    margin-left: 180px;
+    color: rgb(228, 162, 40);
+}
+
+
+.card-heading-second {
+    margin-top: 150px;
+    margin-left: 350px;
+    color: rgb(228, 162, 40);
+}
+
+.card-matter-first {
+    color:  white;
+}
+
+.card-matter-second {
+    margin-left: 140px;
+}
+
+span {
+    color: grey;
+}
+
+.yo {
+    color: white;
+}
+
+.text-body-primary {
+    color: grey;
+}
+
+.nav-pills .nav-link {
+    color: grey;
+}
